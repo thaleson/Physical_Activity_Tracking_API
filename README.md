@@ -55,9 +55,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
    python manage.py runserver
    ```
 
-8. **Acesse a API:**
-   - [Swagger UI](http://localhost:8000/swagger/) 📄
-   - [ReDoc](http://localhost:8000/redoc/) 📖
 
 ## 📜 Endpoints
 
